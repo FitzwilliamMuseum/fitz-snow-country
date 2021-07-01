@@ -46,12 +46,9 @@ Neither Hokusai's nor the elder Hiroshige's views had been snow scenes, and it i
 
 [P.3606-R]({{ site.collection_url }}id/object/182533)
 
-
-
 * * *
 
-
-[![Object Number P.7-1962]({{site.baseurl}}/images/P.7-1962.jpg){: .img-fluid }
+![Object Number P.7-1962]({{site.baseurl}}/images/P.7-1962.jpg){: .img-fluid }
 
 Keisai Eisen  
 1790-1848
@@ -68,8 +65,6 @@ The Kisokaidô was the second most important road in Japan (after the Tôkaidô)
 In earlier printings, there is additional shading and a pink glow on the horizon of a lightening sky. The cold seems more intense and unremitting in this version.
 
 [P.7-1962]({{ site.collection_url }}id/object/182759)
-
-
 
 * * *
 
@@ -92,12 +87,9 @@ Wada was the highest post station on the road, located at an elevation of 820 me
 
 [P.3549-R]({{ site.collection_url }}id/object/182489)
 
-
-
 * * *
 
-
- [![Object Number P.1-1993]({{site.baseurl}}/images/P.1-1993.jpg)]
+![Object Number P.1-1993]({{site.baseurl}}/images/P.1-1993.jpg)
 
 Utagawa Hiroshige  
 1797-1858
@@ -121,7 +113,7 @@ The abstract quality of the design recalls Chinese painting styles. As in Hirosh
 * * *
 
 
- [![Object Number P.182-1946]({{site.baseurl}}/images/P.182-1946.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.182-1946.jpg)   
+![Object Number P.182-1946]({{site.baseurl}}/images/P.182-1946.jpg)
 
 Utagawa Hiroshige  
 1797-1858
@@ -147,7 +139,7 @@ An earlier printing has the sky shaded dark at the top instead of at the horizon
 * * *
 
 
- [![Object Number P.185-1946]({{site.baseurl}}/images/P.185-1946.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.185-1946.jpg)   
+![Object Number P.185-1946]({{site.baseurl}}/images/P.185-1946.jpg)
 
 Utagawa Hiroshige  
 1797-1858
@@ -171,7 +163,7 @@ Here a daimyô's procession can be seen climbing up towards the sixteenth-centur
 * * *
 
 
- [![Object Number P.3580-R]({{site.baseurl}}/images/P.3580-R.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3580-R.jpg)   
+![Object Number P.3580-R]({{site.baseurl}}/images/P.3580-R.jpg)
 
 Utagawa Hiroshige  
 1797-1858
@@ -194,7 +186,7 @@ An alternative, probably earlier, printing has the title cartouche in green and 
 
 
 
- [![Object Number P.313-1941]({{site.baseurl}}/images/P.313-1941.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.313-1941.jpg)   
+![Object Number P.313-1941]({{site.baseurl}}/images/P.313-1941.jpg)
 
 Utagawa Hiroshige  
 1797-1858
