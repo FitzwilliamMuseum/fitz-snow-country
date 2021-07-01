@@ -5,7 +5,7 @@ permalink: /explore/poetry-and-parody
 order: 8
 ---
 
- [![Object Number P.3622-R](../images/500/P.3622-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3622-R.jpg)   
+![Object Number P.3622-R]({{ site.baseurl }}/images/P.3622-R.jpg){: .img-fluid }
 
 Katsushika Hokusai  
 1760-1849
@@ -22,15 +22,12 @@ Fuji is a volcano 3776 metres above sea level and visible on clear days from Edo
 
 Hokusai titled this illustration 'Three whites Fuji' (_Sanpaku no Fuji_), in reference to a set formula in Chinese-style Japanese painting, which usually combined the three white subjects: snow, white bird (heron or falcon) and white flower (plum or narcissus). Hokusai's conceit in this image was to replace the flower with Fuji, which was always white on top.
 
-[P.3622-R (link to catalogue record)](../../../id/object/182541.html)
-
-
+[P.3622-R]({{ site.collection_url }}id/object/182541)
 
 * * *
 
 
- [![Object Number P.530-1937](../images/500/P.530-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.530-1937.jpg)   
-
+![Object Number P.530-1937]({{ site.baseurl }}/images/P.530-1937.jpg){: .img-fluid }
 Utagawa Kuniyoshi  
 1797-1861
 
@@ -46,14 +43,9 @@ A courtesan in winter overkimono and high clogs (_geta_) is seen on the bank of 
 
 The image parodies the _Water Margin_ tale of exiled arms instructor Hyôshitô Rinchû ('Panther Head'), who can be seen killing his would-be assassin in the tall print by Yoshitoshi displayed in the wall case in front of you. Possible allusions to that incident include the snowy setting and the distant plume of smoke (possibly from a tile kiln), while the folded plain umbrella (_bangasa_) may be intended to echo Rinchû's sword, and the black winter hood may mimic his characteristic black hair and beard.
 
-[P.530-1937 (link to catalogue record)](../../../id/object/182392.html)
-
-
-
+[P.530-1937]({{ site.collection_url }}id/object/182392)
 * * *
-
-
- [![Object Number P.3692-R](../images/500/P.3692-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3692-R.jpg)   
+![Object Number P.3692-R]({{ site.baseurl }}/images/P.3692-R.jpg){: .img-fluid }
 
 Takehara Shunchôsai  
 active 1772-1801
@@ -66,7 +58,7 @@ Given by T. H. Riches 1913
 
 An illustrated gazetteer to the province of Yamato (modern Nara Prefecture). The illustration by Shunchôsai on this page features a poem (_waka_) by Fujiwara Teika (1162-1241):
 
-    I almost took them  
+ >   I almost took them  
     for white sleeves, those branches  
     of first plum blossoms  
     at Mikakigahara  
@@ -75,7 +67,7 @@ An illustrated gazetteer to the province of Yamato (modern Nara Prefecture). The
 
 Mikakigahara may be an area of Yoshino, or it may refer to the fields beyond the walls of a palace garden.
 
-![](../images/500/P.646-1991.jpg "Utagawa Kuniyoshi Object number P.646-1991")
+!["Utagawa Kuniyoshi Object number P.646-1991"]({{ site.baseurl }}/images/P.646-1991.jpg){: .img-fluid }
 
 The illustration shows a courtier (perhaps the poet) walking through falling snow while admiring blossom. As so often in poetry, snow and blossom are almost interchangeable, visually and metaphorically. His attendant shelters him with the curved 'clipped fingernail' umbrella (_tsumaore_) reserved for nobles.
 
@@ -83,7 +75,7 @@ Kuniyoshi stole all the figures from Shunchôsai's design when he designed a pri
 
 Kôkô composed his poem while still a prince, to accompany a gift of young greens, which were customarily gathered and eaten at New Year.
 
-    For my lord's sake  
+>    For my lord's sake  
     I went out into the fields of spring  
     to pick young greens  
     while on my robe  
@@ -95,12 +87,9 @@ The commentary printed in the cartouche on Kuniyoshi's print explains that the y
 
 **P.3692-R**
 
-
-
 * * *
 
-
- [![Object Number P.350-1937](../images/500/P.350-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.350-1937.jpg)   
+![Object Number P.350-1937]({{ site.baseurl }}/images/P.350-1937.jpg){: .img-fluid }
 
 Totoya Hokkei  
 1780-1850
@@ -114,21 +103,21 @@ In the Nô play _Hachinoki_ (The Potted Trees), Shogun Hôjô Tokiyori (1227-126
 
 In this New Year print for the year of the horse, it seems to be Tsuneyo's wife who chops down the trees. The first 'crazy verse' (_kyôka_) recalls the saying 'a heavy snowfall foretells a bountiful year':
 
-    A heavy snow  
+ >   A heavy snow  
     foretells the coming bounty  
     of three landed estates,  
     to be awarded as tribute  
     at the start of a horse year.  
        – Yôkyûtei Kazutaka
 
-    Untethered  
+>    Untethered  
     from branches  
     about to be cut for kindling,  
     the spring colts at Sano  
     race together in the snow.  
        – Eijudô Kanenobu
 
-    The spear-plum stands alone  
+>   The spear-plum stands alone  
     in the chilly falling snow,  
     but its blossoms  
     seize a chance to perfume the air,  
@@ -136,14 +125,10 @@ In this New Year print for the year of the horse, it seems to be Tsuneyo's wife 
        – Hinanoya Haruko  
     (translations: Alfred Haft)
 
-[P.350-1937 (link to catalogue record)](../../../id/object/190405.html)
-
-
+[P.350-1937]({{ site.collection_url }}id/object/190405)
 
 * * *
-
-
- [![Object Number P.370-1937](../images/500/P.370-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.370-1937.jpg)   
+![Object Number P.370-1937]({{ site.baseurl }}/images/P.370-1937.jpg){: .img-fluid }
 
 Totoya Hokkei  
 1780-1850
@@ -155,23 +140,21 @@ Given by E. Evelyn Barron 1937
 
 From the series entitled 'Essays in idleness' (Tsurezuregusa) commissioned by the Manji poetry circle. The inscriptions include a quotation from chapter 171 of _Tsurezuregusa_, a prose miscellany written by Yoshida Kenkô in 1324-1331:
 
-    'It happened once that a man playing the game of shell-matching took no notice of the shells before him, he was so busy looking to the side...'
+ >   'It happened once that a man playing the game of shell-matching took no notice of the shells before him, he was so busy looking to the side...'
 
 Shell-matching involved pairing or reuniting poems or images painted inside the separated halves of shells. The scene in this shell is from the famous eleventh-century novel, _The Tale of Genji_, by Murasaki Shikibu. Prince Niou has fallen in love with Ukifune ('drifting boat'), mistress of his friend Kaoru. Disguised as Kaoru, Niou braves a journey through deep snow, reaching Ukifune at night. In this scene he takes her by boat to a house across the Uji River, with the moon in the dawn sky. Afterwards they exchange poems:
 
 Niou:
 
-Snow upon the hills, ice along frozen rivers:  
+> Snow upon the hills, ice along frozen rivers:  
 these for you I trod, yet for all that never lost  
 the way to be lost in you.
 
 Ukifune:
 
-Quicker than the snow, swirling down at last  
+> Quicker than the snow, swirling down at last  
 to lie by the frozen stream, I think I shall  
 melt away while aloft yet in mid-sky.  
 (translation: Royall Tyler)
 
-[P.370-1937 (link to catalogue record)](../../../id/object/166018.html)
-
-[back to the top](index.html#top)
+[P.370-1937]({{ site.collection_url }}id/object/166018){: .img-fluid }

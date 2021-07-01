@@ -5,7 +5,7 @@ permalink: /explore/snow-in-the-city
 order: 2
 ---
 
- [![Object Number P.3588-R](../images/500/P.3588-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3588-R.jpg)   
+ ![Object Number P.3588-R]({{site.baseurl}}/images/P.3588-R.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -28,14 +28,13 @@ The remaining 'crazy verse' (kyôka) on this edition of the print is by Taihaid�
     breaking the cherry branches,  
     and also breaks them itself.  
 
-[P.3588-R (link to catalogue record)](../../../id/object/182517.html)
+[P.3588-R]({{site.collection_url}}id/object/182517.html)
 
 
 
 * * *
 
-
- [![Object Number P.3579-R](../images/500/P.3579-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3579-R.jpg)   
+![Object Number P.3579-R]({{site.baseurl}}/images/P.3579-R.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -54,14 +53,14 @@ Timber was stored mainly in ponds with connecting canals. For transportation it 
 
 An alternative, probably earlier, printing has an additional wisp of cloud and a more elaborately coloured cartouche.
 
-[P.3579-R (link to catalogue record)](../../../id/object/182511.html)
+[P.3579-R]({{site.collection_url}}id/object/182511.html)
 
 
 
 * * *
 
 
- [![Object Number P.3581-R](../images/500/P.3581-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3581-R.jpg)   
+ ![Object Number P.3581-R]({{site.baseurl}}/images/P.3581-R.jpg)  
 
 Utagawa Hiroshige  
 1797-1858
@@ -80,14 +79,14 @@ Hiroshige uses the snow to set off the bright colours, which together with the j
 
 An alternative, probably earlier, printing has more elaborate patterning in the title cartouche.
 
-[P.3581-R (link to catalogue record)](../../../id/object/182512.html)
+[P.3581-R]({{site.collection_url}}id/object/182512.html)
 
 
 
 * * *
 
 
- [![Object Number P.66-1960](../images/500/P.66-1960.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.66-1960.jpg)   
+![Object Number P.66-1960]({{site.baseurl}}/images/P.66-1960.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -104,14 +103,14 @@ Four geisha are seen in front of the stone entrance gate (_torii_) of Kanshin-in
 
 Gion developed as a pleasure quarter in front of Kanshin-in (now called Yasaka-jinja) to accommodate the needs of travellers and visitors to the shrine, becoming one of the best-known geisha districts in Japan. Geisha ('skilled persons'), locally called _geiko_ ('women of the arts'), were employed as hostesses, musicians and dancers; as distinct from prostitutes (_yujô_), they did not usually offer sexual services. Geisha would have been a common sight around the shrine in the evening as they made their way to parties in the houses (_machiya_) and teahouses (_ochaya_) of Gion, dressed up in their finery.
 
-[P.66-1960 (link to catalogue record)](../../../id/object/182748.html)
+[P.66-1960]({{site.collection_url}}id/object/182748.html)
 
 
 
 * * *
 
 
- [![Object Number P.261-1955](../images/500/P.261-1955.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.261-1955.jpg)   
+ ![Object Number P.261-1955]({{site.baseurl}}/images/P.261-1955.jpg)   
 
 Katsushika Hokusai  
 1760-1849
@@ -128,4 +127,4 @@ The idea of sets of eight prints (_hakkei_) derived from a traditional set of 'E
 
 The locations in this set differ slightly from Hokusai's other sets of eight views of Edo. Ryogoku Bridge was one of the liveliest places in Edo, with theatres, side-shows, archery-galleries, firework-displays and other entertainments clustered at either end. This print shows it crowded even in deepest winter.
 
-[P.261-1955 (link to catalogue record)](../../../id/object/182689.html)
+[P.261-1955]({{site.collection_url}}id/object/182689.html)

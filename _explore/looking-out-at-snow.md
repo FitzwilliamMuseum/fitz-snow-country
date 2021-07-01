@@ -5,8 +5,7 @@ permalink: /explore/looking-out-at-snow
 order: 4
 ---
 
-
- [![Object Number P.241-1937](../images/500/P.241-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.241-1937.jpg)   
+![Object Number P.241-1937]({{site.baseurl}}/images/P.241-1937.jpg)   
 
 Keisai Eisen  
 1790-1848
@@ -30,14 +29,13 @@ The poem reads:
     and their quarrel melted into laughter  
     like snow into water.
 
-[P.241-1937 (link to catalogue record)](../../../id/object/182208.html)
+[P.241-1937]({{site.collection_url}}id/object/182208.html)
 
 
 
 * * *
 
-
- [![Object Number P.687-1991](../images/500/P.687-1991.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.687-1991.jpg)   
+![Object Number P.687-1991]({{site.baseurl}}/images/P.687-1991.jpg){: .img-fluid }  
 
 Ogata Gekko  
 1859-1920
@@ -61,14 +59,13 @@ The inclusion of a prominent branch of snow on evergreen bamboo reflected a rela
     snow on the bamboo.  
      – Kaga no Chiyo (1701-55)
 
-[P.687-1991 (link to catalogue record)](../../../id/object/190402.html)
+[P.687-1991]({{site.collection_url}}id/object/190402)
 
 
 
 * * *
 
-
- [![Object Number P.8-1985](../images/500/P.8-1985.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.8-1985.jpg)   
+![Object Number P.8-1985]({{site.baseurl}}/images/P.8-1985.jpg)
 
 Utagawa Kunisada  
 1786 1865
@@ -85,14 +82,14 @@ In this print for winter, a town (_machi_) geisha practices a ballad from the bo
 
 The view through the window shows the shrine to Benten, goddess of water, on the island constructed in the early Edo period (1603-1868) in Shinobazu Pond in imitation of Chikibu Island in Lake Biwa. This was part of an attempt by Tenkai, the Shôgun's advisor, to replicate Kyoto and its surroundings in the area around Shinobazu Pond, which Tenkai considered analogous to Lake Biwa.
 
-[P.8-1985 (link to catalogue record)](../../../id/object/182776.html)
+[P.8-1985]({{site.collection_url}}id/object/182776)
 
 
 
 * * *
 
 
- [![Object Number P.549-1937](../images/500/P.549-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.549-1937.jpg)   
+![Object Number P.549-1937]({{site.baseurl}}/images/P.549-1937.jpg){: .img-fluid }
 
 Yanagawa Shigenobu II  
 active _c_.1820s-late 1850s
@@ -126,6 +123,4 @@ The final poem likens local Shinagawa prostitutes to streams of mountain snowmel
     – Hinanoya Haruko  
     (translations: John T. Carpenter)
 
-[P.549-1937 (link to catalogue record)](../../../id/object/182398.html)
-
-[back to the top](index.html#top)
+[P.549-1937]({{site.collection_url}}id/object/182398)

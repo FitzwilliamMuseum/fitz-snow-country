@@ -6,7 +6,7 @@ title: Journeys through snow – history and legend
 ---
 
 
- [![Object Number P.15-2003](../images/500/P.15-2003.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.15-2003.jpg)   
+![Object Number P.15-2003]({{site.baseurl}}/images/P.15-2003.jpg){: .img-fluid }
 
 Tsukioka Yoshitoshi  
 1839-1892
@@ -23,14 +23,13 @@ Gentoku is the Japanese name for Liu Bei, who became Emperor of Shu in 221. In 2
 
 Kômei is seen on the right poring over learned texts: in the absence of lamps, diligent scholars in ancient China were supposed to have read by the light of fireflies or by the reflected luminescence of snow, which they brought in from outside.
 
-[P.15-2003 (link to catalogue record)](../../../id/object/182951.html)
+[P.15-2003]({{ site.collection_url }}id/object/182951)
 
 
 
 * * *
 
-
- [![Object Number P.14-1997](../images/500/P.14-1997.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.14-1997.jpg)   
+![Object Number P.14-1997]({{site.baseurl}}/images/P.14-1997.jpg){: .img-fluid }
 
 Katsushika Hokusai  
 1760-1849
@@ -46,14 +45,12 @@ Su Shi held various government posts before being banished to the island of Hain
 
 The poet's servant wears a straw cape (_mino_) for the snow.
 
-[P.14-1997 (link to catalogue record)](../../../id/object/182905.html)
-
-
+[P.14-1997]({{ site.collection_url }}id/object/182905)
 
 * * *
 
 
- [![Object Number P.3615-R](../images/500/P.3615-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3615-R.jpg)   
+![Object Number P.3615-R]({{site.baseurl}}/images/P.3615-R.jpg){: .img-fluid }
 
 Katsushika Hokusai  
 1760-1849
@@ -67,21 +64,18 @@ No. 28 in Hokusai's final series of prints, 'One hundred poems by one hundred po
 
 The figures in this print are probably hunters. The warmth of their temporary blaze contrasts with the hut on the right, abandoned to the snow. The poem by Minamoto no Muneyuki (died 939) emphasises the sadness of winter, perhaps in response to the conventional idea that autumn is the saddest season:
 
-    In the mountain village,  
+>    In the mountain village,  
     it is in winter that my loneliness  
     increases most,  
     when I think how both have withered -  
     the grasses and people's visits.  
     (translation: Joshua S. Mostow)
 
-[P.3615-R (link to catalogue record)](../../../id/object/93626.html)
-
-
+[P.3615-R]({{ site.collection_url }}id/object/93626)
 
 * * *
 
-
- [![Object Number P.26-2003](../images/500/P.26-2003.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.26-2003.jpg)   
+![Object Number P.26-2003]({{site.baseurl}}/images/P.26-2003.jpg){: .img-fluid }
 
 Tsukioka Yoshitoshi  
 1839-1892
@@ -98,14 +92,11 @@ Hyôshitô Rinchû had been imprisoned by the minister of war, but his sentence 
 
 The atmosphere of the snowy landscape is heightened by the use of white pigment spattered onto the surface of the print, evoking falling flakes of snow.
 
-[P.26-2003 (link to catalogue record)](../../../id/object/182962.html)
-
-
+[P.26-2003]({{ site.collection_url }}id/object/182962)
 
 * * *
 
-
- [![Object Number P.707-1991](../images/500/P.707-1991.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.707-1991.jpg)   
+![Object Number P.707-1991]({{site.baseurl}}/images/P.707-1991.jpg){: .img-fluid }
 
 Ogata Gekko  
 1859-1920
@@ -122,14 +113,12 @@ An assassin waits for Ii Naosuke and his procession, which approaches Edo Castle
 
 He was assassinated on a snowy morning in the third month of 1860, by a group of 17 samurai retainers from Mito, accompanied by Arimura Jisaemon, a samurai from Satsuma. Arimura cut Ii Naosuke's neck and then committed ritual suicide (_seppuku_). The assassination is generally described as taking place outside Sakurada gate, but Gekko seems to have set the incident within the grounds of Edo castle, with the main moat to the right. The assassin crouches within the shelter of a straw cape (_mino_), while snow falls heavily. Some of the snowflakes are depicted by flicking white pigment over the printed surface.
 
-[P.707-1991 (link to catalogue record)](../../../id/object/190403.html)
-
-
+[P.707-1991]({{ site.collection_url }}id/object/190403)
 
 * * *
 
 
- [![Object Number P.49-2010](../images/500/P.49-2010.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.49-2010.jpg)   
+ ![Object Number P.49-2010]({{site.baseurl}}/images/P.49-2010.jpg){: .img-fluid }
 
 Taguchi Beisaku  
 1864-1903
@@ -148,6 +137,4 @@ The severe conditions of cold, snow and ice that the troops encountered were men
 
 'As far as one could see, snow covered the Shandong Peninsula. It was biting cold. Beards hung like icicles, frozen from the chin. To combat frostbite, all extremities had wool protective covers. But the cold iced even our bone marrow. The horses were too cold to continue...'
 
-[P.49-2010 (link to catalogue record)](../../../id/object/190404.html)
-
-[back to the top](index.html#top)
+[P.49-2010]({{ site.collection_url }}id/object/190404)

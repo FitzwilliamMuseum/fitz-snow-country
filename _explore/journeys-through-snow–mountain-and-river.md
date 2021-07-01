@@ -5,7 +5,7 @@ permalink: /explore/journeys-through-snow–mountain-and-river
 order: 1
 ---
 
-![Object Number P.3558-R](../images/500/P.3558-R.jpg)  
+![Object Number P.3558-R]({{site.baseurl}}/images/P.3558-R.jpg){: .img-fluid }
 
 Utagawa Hiroshige  
 1797-1858
@@ -20,14 +20,11 @@ From the series 'Sumo bouts between landscapes and seascapes' (_Sankai mitate su
 
 Mount Yuga was a major pilgrimage destination. The complex included a Shintô shrine and the Buddhist Rendai-ji monastery. The sacred harbour gate (_torii_) to the sanctuary appears in the companion print, _Tanokuchi in Bizen Province_ (_Bizen Tanokuchi_), while further gates up the hill are seen in this print.
 
-[P.3558-R (link to catalogue record)](../../../id/object/182492.html)
-
-
+[P.3558-R]({{ site.collection_url }}id/object/182492)
 
 * * *
 
-
-![Object Number P.3606-R](../images/500/P.3606-R.jpg)   
+![Object Number P.3606-R]({{site.baseurl}}/images/P.3606-R.jpg){: .img-fluid }  
 
 Utagawa Hiroshige II  
 1826-1869
@@ -46,14 +43,14 @@ The name of the bridge means literally 'the bridge of the brocade sash'. Built i
 
 Neither Hokusai's nor the elder Hiroshige's views had been snow scenes, and it is the element of snow, and the artist's concentration on the way it lends forms an abstract force, rather than bothering too much about topographical detail, that makes this one of the younger Hiroshige's best designs.
 
-[P.3606-R (link to catalogue record)](../../../id/object/182533.html)
+[P.3606-R]({{ site.collection_url }}id/object/182533)
 
 
 
 * * *
 
 
- [![Object Number P.7-1962](../images/500/P.7-1962.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.7-1962.jpg)   
+[![Object Number P.7-1962]({{site.baseurl}}/images/P.7-1962.jpg){: .img-fluid }
 
 Keisai Eisen  
 1790-1848
@@ -69,14 +66,14 @@ The Kisokaidô was the second most important road in Japan (after the Tôkaidô)
 
 In earlier printings, there is additional shading and a pink glow on the horizon of a lightening sky. The cold seems more intense and unremitting in this version.
 
-[P.7-1962 (link to catalogue record)](../../../id/object/182759)
+[P.7-1962]({{ site.collection_url }}id/object/182759)
 
 
 
 * * *
 
 
-![Object Number P.3549-R](../images/500/P.3549-R.jpg)   
+![Object Number P.3549-R]({{site.baseurl}}/images/P.3549-R.jpg){: .img-fluid }
 
 Utagawa Hiroshige  
 1797-1858
@@ -92,14 +89,14 @@ It is likely that Eisen and Hiroshige relied to a considerable extent on guidebo
 
 Wada was the highest post station on the road, located at an elevation of 820 metres above sea level at the entrance to Wada Pass, which at 1650 metres formed one of the most dangerous parts of the journey, especially in the bleak winter conditions depicted here by Hiroshige. Because the next post station, Shimosuwa, was over 12 miles away, Wada flourished as an overnight stop, with over 150 buildings to accommodate all of the travellers and their pack animals.
 
-[P.3549-R (link to catalogue record)](../../../id/object/182489.html)
+[P.3549-R]({{ site.collection_url }}id/object/182489)
 
 
 
 * * *
 
 
- [![Object Number P.1-1993](../images/500/P.1-1993.jpg)]
+ [![Object Number P.1-1993]({{site.baseurl}}/images/P.1-1993.jpg)]
 
 Utagawa Hiroshige  
 1797-1858
@@ -116,14 +113,14 @@ This print shows the Kisokaidô - the mountain road between Edo and Kyoto that h
 
 The abstract quality of the design recalls Chinese painting styles. As in Hiroshige's late landscape paintings, the human figure is virtually absent, and where we can spot one it is dwarfed by the vast scale of the landscape, which is emphasized by the snow.
 
-[P.1-1993 (link to catalogue record)](../../../id/object/182898.html)
+[P.1-1993]({{ site.collection_url }}id/object/182898)
 
 
 
 * * *
 
 
- [![Object Number P.182-1946](../images/500/P.182-1946.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.182-1946.jpg)   
+ [![Object Number P.182-1946]({{site.baseurl}}/images/P.182-1946.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.182-1946.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -142,14 +139,14 @@ This much admired depiction of snowflakes falling on houses and hills already sh
 
 An earlier printing has the sky shaded dark at the top instead of at the horizon, and additional grey shading on the roofs and in front of the houses.
 
-[P.182-1946 (link to catalogue record)](../../../id/object/182590.html)
+[P.182-1946]({{ site.collection_url }}id/object/182590)
 
 
 
 * * *
 
 
- [![Object Number P.185-1946](../images/500/P.185-1946.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.185-1946.jpg)   
+ [![Object Number P.185-1946]({{site.baseurl}}/images/P.185-1946.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.185-1946.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -166,14 +163,14 @@ This was the first and most famous of Hiroshige's many series depicting the Tôk
 
 Here a daimyô's procession can be seen climbing up towards the sixteenth-century castle above the town of Kameyama, but the figures barely register in a landscape that presages the natural grandeur and abstract power evoked in Hiroshige's later works. This is one of the coldest and bleakest scenes in the series.
 
-[P.185-1946 (link to catalogue record)](../../../id/object/182593.html)
+[P.185-1946]({{ site.collection_url }}id/object/182593)
 
 
 
 * * *
 
 
- [![Object Number P.3580-R](../images/500/P.3580-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3580-R.jpg)   
+ [![Object Number P.3580-R]({{site.baseurl}}/images/P.3580-R.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3580-R.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -192,11 +189,11 @@ In the spring this area offered excellent shellfish gathering – perhaps hinted
 
 An alternative, probably earlier, printing has the title cartouche in green and yellow, the eagle's talons burnished until glossy, and flakes of mica (_kira_) scattered extensively to make the feathers glitter.
 
-[P.3580-R (link to catalogue record)](../../../id/object/182424.html)
+[P.3580-R]({{ site.collection_url }}id/object/182424)
 
 
 
- [![Object Number P.313-1941](../images/500/P.313-1941.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.313-1941.jpg)   
+ [![Object Number P.313-1941]({{site.baseurl}}/images/P.313-1941.jpg)]({{ site.collection_url }}_functions/imagewindow.php?/gallery/snowcountry/images/760/P.313-1941.jpg)   
 
 Utagawa Hiroshige  
 1797-1858

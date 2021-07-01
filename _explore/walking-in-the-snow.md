@@ -5,7 +5,7 @@ permalink: /explore/walking-in-the-snow
 order: 3
 ---
 
- [![Object Number P.181-1946](../images/500/P.181-1946.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.181-1946.jpg)   
+![Object Number P.181-1946]({{site.baseurl}}/images/P.181-1946.jpg)
 
 Suzuki Harunobu  
 _c_.1725-1770
@@ -25,15 +25,15 @@ The figures are dressed for snow: high wooden clogs (_geta_), split-toed linen s
     how the plovers twitter  
     and cry after their mates!_
 
-[P.181-1946 (link to catalogue record)](../../../id/object/182589.html)
+[P.181-1946]({{ site.collection_url }}id/object/182589.html)
 
 
 
 * * *
 
 
-[![Object Number P.13-1955](../images/500/P.13-1955.jpg)  
-](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.13-1955.jpg)
+![Object Number P.13-1955]({{site.baseurl}}/images/P.13-1955.jpg)  
+
 
 Katsukawa Shunchô  
 active _c_.1781-1801
@@ -52,15 +52,14 @@ A Tatsumi ('dragon-serpent', meaning southeast) geisha – the unlicensed but fa
 
 Part of the alluring chic (_iki_) of Tatsumi geisha was to forego the split-toed socks (_tabi_) worn by Yoshiwara geisha in winter, and be seen barefoot in the snow.
 
-[P.13-1955 (link to catalogue record)](../../../id/object/182653.html)
+[P.13-1955]({{ site.collection_url }}id/object/182653.html)
 
 
 
 * * *
 
 
-[![Object Number P.698-1991](../images/500/P.698-1991.jpg)  
-](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.698-1991.jpg)
+![Object Number P.698-1991]({{site.baseurl}}/images/P.698-1991.jpg)
 
 Ogata Gekko  
 1859-1920
@@ -77,4 +76,4 @@ The sleeping-dragon plum (_garyô-ume_) was named after its distinctive branches
 
 As the plum tree was also admired for the beauty and powerful fragrance of its double blossoms ('so white when full in bloom as to drive off the darkness', according to one guidebook), spring was the most obvious season to visit Kameido. But admiring the effect of snow was another favourite outing, and these women are well dressed for the snowy weather, with thick clothes and high clogs (_geta_). Although by this date the western-style silk and steel umbrella, known as a 'bat umbrella' (_kômori-gasa_), had become very fashionable in Tokyo, the women here carry traditional paper and bamboo umbrellas (_wagasa_).
 
-[P.698-1991 (link to catalogue record)](../../../id/object/190401.html)
+[P.698-1991]({{ site.collection_url }}id/object/190401.html)

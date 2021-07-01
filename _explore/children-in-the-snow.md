@@ -6,7 +6,7 @@ order: 5
 ---
 
 
-[![Object Number P.15-2012](/gallery/snowcountry/images/500/P.15-2012.jpg)](/_functions/imagewindow.php?/gallery/snowcountry/images/760/P.15-2012.jpg)   
+![Object Number P.15-2012]({{site.baseurl}}/images/p_15_2012_1_201204_mfj22_dc1.jpeg){: .img-fluid }
 
 Utagawa Kuniteru  
 active _c_.1830-70
@@ -25,14 +25,14 @@ The game of rolling snowballs went back at least to the Heian period when it was
 
 Children in Japan no longer make snow rabbits (the equivalent of snowmen), but they build snow figures of Daruma (Bodhidharma) - father of the Zen sect of Buddhism that spread from India to China and Japan.
 
-[P.15-2012 (link to catalogue record)](/id/object/182648)
+[P.15-2012]({{site.collection_url}}/id/object/182648)
 
 
 
 * * *
 
 
- [![](/gallery/snowcountry/images/500/P.638-1991.jpg)](/_functions/imagewindow.php?/gallery/snowcountry/images/760/P.638-1991.jpg)   
+![]({{ site.baseurl }}/images/p_638_1991_1_201207_mfj22_dc1.jpeg){: .img-fluid }   
 
 Utagawa Kuniyoshi  
 1797-1861  
@@ -50,4 +50,4 @@ The Nô play _Snow on bamboo_ (_Take no yuki_) by Zeami (_c_.1363-1443) features
 
 Kuniyoshi probably based the figure group of the mother and her two children on a group symbolising Charity in a print or book imported by Dutch traders.
 
-[P.638-1991 (link to catalogue record)](/id/object/182882)
+[P.638-1991]({{site.collection_url}}/id/object/182882)

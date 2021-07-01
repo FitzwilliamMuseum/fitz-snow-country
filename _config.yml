@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/p.313-1941_1_201207_mfj22_dc1.jpg"
+collection_url: "https://collection.beta.fitz.ms"
 # Build settings
 plugins:
   - jekyll-feed

@@ -5,8 +5,7 @@ permalink: /explore/snow-in-the-theatre
 order: 6
 ---
 
- [![Object Number P.525/526-1937](../images/500/P.525-1937.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.525-1937.jpg)   
-
+![Object Number P.525/526-1937]({{site.baseurl}}/images/P.525-1937.jpg)
 Utagawa Kuniyasu  
 1794-1832
 
@@ -19,14 +18,11 @@ Commissioned by the Hisakataya poetry circle to mark the performance of 'Palace 
 
 In this print the drama is heightened by the way the white pigment has been flicked across the surface.
 
-[P.525-1937 and P.526-1937 (link to catalogue records)](../../../id/object/182389.html)
-
-
+[P.525-1937 and P.526-1937 (link to catalogue records)]({{ site.collection_url }}id/object/182389.html)
 
 * * *
 
-
- [![Object Number P.3603-R](../images/500/P.3603-R.jpg)](../../../_functions/imagewindow.php?/gallery/snowcountry/images/760/P.3603-R.jpg)   
+![Object Number P.3603-R]({{site.baseurl}}/images/P.3603-R.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -42,4 +38,4 @@ This is the famous scene in the final act in which the retainers attack Moronao'
 
 Although not a depiction of a Kabuki stage or of Kabuki actors, this is nevertheless an illustration of the Kabuki story rather than the historical incident on which it was distantly based. In the actual play this crucial moment is not given as much prominence as one would expect: Moronao has no dialogue to speak whatsoever, he is only seen very briefly and he is played by a very minor actor at this point. Instead the climax is the series of fight scenes (_tachimawari_) in the snow that make up this final act: one of these can be seen in the left background. These are the most famous fight scenes in the snow in all Kabuki.
 
-[P.3603-R (link to catalogue record)](../../../id/object/182529.html)
+[P.3603-R]({{ site.collection_url }}id/object/182529.html)
