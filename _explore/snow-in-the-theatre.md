@@ -3,6 +3,7 @@ layout: default
 title: Snow in the theatre
 permalink: /explore/snow-in-the-theatre
 order: 6
+image: /images/P.525-1937.jpg
 ---
 
 ![Object Number P.525/526-1937]({{site.baseurl}}/images/P.525-1937.jpg)

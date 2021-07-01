@@ -3,6 +3,7 @@ layout: default
 title: Children in the Snow
 permalink: /explore/children-in-the-snow
 order: 5
+image: /images/p_15_2012_1_201204_mfj22_dc1.jpeg
 ---
 
 
@@ -26,8 +27,6 @@ The game of rolling snowballs went back at least to the Heian period when it was
 Children in Japan no longer make snow rabbits (the equivalent of snowmen), but they build snow figures of Daruma (Bodhidharma) - father of the Zen sect of Buddhism that spread from India to China and Japan.
 
 [P.15-2012]({{site.collection_url}}/id/object/182648)
-
-
 
 * * *
 

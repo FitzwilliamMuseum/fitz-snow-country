@@ -3,6 +3,7 @@ title: Snow in the city
 layout: default
 permalink: /explore/snow-in-the-city
 order: 2
+image: /images/P.3588-R.jpg
 ---
 
  ![Object Number P.3588-R]({{site.baseurl}}/images/P.3588-R.jpg)   

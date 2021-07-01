@@ -3,6 +3,7 @@ layout: default
 title: "Journeys through snow – mountain and river"
 permalink: /explore/journeys-through-snow–mountain-and-river
 order: 1
+image: /images/P.3558-R.jpg
 ---
 
 ![Object Number P.3558-R]({{site.baseurl}}/images/P.3558-R.jpg){: .img-fluid }

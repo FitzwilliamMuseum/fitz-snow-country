@@ -3,6 +3,7 @@ title: Poetry and parody
 layout: default
 permalink: /explore/poetry-and-parody
 order: 8
+image: /images/P.3622-R.jpg
 ---
 
 ![Object Number P.3622-R]({{ site.baseurl }}/images/P.3622-R.jpg){: .img-fluid }

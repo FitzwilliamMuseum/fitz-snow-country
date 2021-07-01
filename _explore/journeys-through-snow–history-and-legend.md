@@ -3,6 +3,7 @@ permalink: /explore/journeys-through-snow–history-and-legend
 order: 7
 layout: default
 title: Journeys through snow – history and legend
+image: /images/P.15-2003.jpg
 ---
 
 

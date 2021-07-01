@@ -3,6 +3,7 @@ layout: default
 title: Walking in the snow
 permalink: /explore/walking-in-the-snow
 order: 3
+image: /images/P.181-1946.jpg
 ---
 
 ![Object Number P.181-1946]({{site.baseurl}}/images/P.181-1946.jpg)

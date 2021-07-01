@@ -3,6 +3,7 @@ layout: default
 title: Looking out at snow
 permalink: /explore/looking-out-at-snow
 order: 4
+image: /images/P.241-1937.jpg
 ---
 
 ![Object Number P.241-1937]({{site.baseurl}}/images/P.241-1937.jpg)   

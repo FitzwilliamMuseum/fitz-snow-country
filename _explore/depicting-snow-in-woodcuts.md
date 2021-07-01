@@ -3,6 +3,7 @@ title: Depicting snow in woodcuts
 layout: default
 permalink: /explore/depicting-snow-in-woodcuts
 order: 9
+image: /images/P.3558-Rd1.jpg
 ---
 
 ![Utagawa Hiroshige Mount Yuga in Bizen Province (detail]({{ site.baseurl }}/images/P.3558-Rd1.jpg){: .img-fluid }
