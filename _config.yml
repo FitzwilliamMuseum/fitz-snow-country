@@ -31,6 +31,8 @@ twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/p.313-1941_1_201207_mfj22_dc1.jpg"
 collection_url: "https://data.fitzmuseum.cam.ac.uk"
+google_analytics: 'G-2R0YLY9DRS'
+
 # Build settings
 plugins:
   - jekyll-feed
