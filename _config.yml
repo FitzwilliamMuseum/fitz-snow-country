@@ -21,10 +21,8 @@
 title: "Snow country: Woodcuts of the Japanese Winter"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Japanese artists have long responded to an altered world of frozen forms,
-  stilled by a blanket of snow. In woodcuts they used blank paper to convey
-  the purifying beauty of snow in a transformed landscape where even
-  'the depths of the night became white'."
+  Japanese artists have long responded to an altered world of frozen forms,
+  stilled by a blanket of snow. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snowcountry.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
