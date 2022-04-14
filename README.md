@@ -1,5 +1,9 @@
 # Snow Country
 
+[![DOI](https://zenodo.org/badge/381969998.svg)](https://zenodo.org/badge/latestdoi/381969998)
+
+
+
 This repository holds the code and content for the Fitzwilliam Museum's Snow Country Japanese Prints exhibition:
 Japanese artists have long responded to an altered world of frozen forms, stilled by a blanket of snow. In woodcuts they used blank paper to convey the purifying beauty of snow in a transformed landscape where even ‘the depths of the night became white’.
 
