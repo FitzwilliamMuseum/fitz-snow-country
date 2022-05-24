@@ -23,7 +23,7 @@ Japanese artists have long responded to an altered world of frozen forms, stille
 ## Credits
 
 Website by [@portableant](https://github.com/portableant)
-[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335). 
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335).
 
 ## License
 
